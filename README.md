@@ -73,4 +73,3 @@ Feel free to customize datasets, hyperparameters, or add visualizations for deep
 This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
 ---
 
-###  Customization Tips
